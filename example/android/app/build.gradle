@@ -57,6 +57,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.u0x48lab.body_detection_example'
 }
 
 flutter {
